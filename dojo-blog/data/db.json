@@ -13,9 +13,6 @@
       "id": 2
     },
     {
-      "id": 3
-    },
-    {
       "id": 4
     },
     {
@@ -125,6 +122,12 @@
       "body": "i wanna be rich and make money",
       "author": "mario",
       "id": 29
+    },
+    {
+      "title": "God is able",
+      "body": "he never forgets you",
+      "author": "mario",
+      "id": 30
     }
   ]
 }
